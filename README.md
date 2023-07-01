@@ -1,1 +1,1 @@
-# eyeblls-following-ball
+# eyeballs-following-ball
